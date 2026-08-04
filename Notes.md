@@ -126,7 +126,7 @@ ping -c 4 google.com
 - `ping` tests network connectivity and DNS resolution.
 - `ip a` displays network interfaces and IP addresses.
 
----
+
 
 # Commands Learned
 
@@ -160,7 +160,7 @@ ping -c 4 google.com
 - man
 - history
 
----
+
 
 # Skills Gained
 
@@ -174,8 +174,8 @@ ping -c 4 google.com
 - Reading Linux documentation
 - Problem-solving through command-line errors
 
----
 
+---
 # Next Project
 
 ## Two-VM Networking Lab
